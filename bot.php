@@ -1,4 +1,7 @@
 <?php
+
+$proxy = 'proxyurl:port';
+$proxyauth = 'username:password';
 $access_token = 'Bl/DCBKhbMBiStGbVgEJA6TNE47XTHavgS2e+VMsTg/etHe6Kjo2M1aUNS9Pd5ao491su45EnF2HsimGDS0arCLu/pl4dwplYAWANkxc8559dhbyOVdoU7qEj+niND7qkuF8r/OmuopxvCNvYhimYQdB04t89/1O/w1cDnyilFU=';
 
 // Get POST body content
